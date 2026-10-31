@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/
+lfw*/
+*.zip
+results/embeddings.npz

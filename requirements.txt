@@ -1,0 +1,7 @@
+face_recognition
+face_recognition_models
+dlib-bin
+numpy
+scikit-learn
+matplotlib
+Pillow
